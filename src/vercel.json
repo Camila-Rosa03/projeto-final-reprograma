@@ -1,15 +1,18 @@
 {
-    "cria" : [
-        {
-            "src" : " servidor.js " ,
-            "use" : " @vercel/node "
-        }
-    ],
-    "rotas" : [
-        {
-            "src" : " /(.*) " ,
-            "dest" : " servidor.js " ,
-            "métodos" : [ " GET " , " POST " , " PUT " , " PATCH " , " DELETE " , " OPTIONS " ]
-        }
+
+  "build": [
+    {
+    "src":"/src/app.js",
+    "use": "@vercel/node"
+  }
+],
+  "routes":[
+    {
+    "src": "/(.*)",
+    "dest": "./src/app.js",
+    "methods": [
+      "GET", "POST", "DELETE", "PATCH", "PUT", "OPTIONS"
     ]
   }
+]
+}
