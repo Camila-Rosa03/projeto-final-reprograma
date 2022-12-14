@@ -1,0 +1,15 @@
+{
+    "cria" : [
+        {
+            "src" : " servidor.js " ,
+            "use" : " @vercel/node "
+        }
+    ],
+    "rotas" : [
+        {
+            "src" : " /(.*) " ,
+            "dest" : " servidor.js " ,
+            "métodos" : [ " GET " , " POST " , " PUT " , " PATCH " , " DELETE " , " OPTIONS " ]
+        }
+    ]
+  }
