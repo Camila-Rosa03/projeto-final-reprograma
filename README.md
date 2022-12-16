@@ -1,14 +1,11 @@
 
 
-Olá, sou a Camila
+### Olá sou a Camila! mulher negra, mãe de Milena, nascida e crescida na periferia de São Paulo-SP, sou formada em Gestão financeira e no momento estou em transição de carreira, cursando desenvolvimento back-end na [{reprograma}](https://reprograma.com.br/) - Todas em Tech. Abaixo falarei mais sobre o projeto!
 
-mulher negra, mãe de Milena, nasci e cresci na periferia de São Paulo-SP, sou formada em Gestão financeira e no momento estou em transição de carreira, cursando desenvolvimento back-end na [{reprograma}](https://reprograma.com.br/) - Todas em Tech. Abaixo falarei mais sobre o projeto!
-```
 
- Sobre o projeto: Imobiliaria Comuna 🏘️
+ # Sobre o projeto: Imobiliaria Comuna 🏘️
  
-```
-```
+
  Nas comunidades ainda é forte o anúncio de imóveis nos postes de luz e vias públicas. Quem tem interesse em alugar ou vender, cola um papel pela vizinhança e aguarda o contato de interessados.
 
  Comuna surgiu da necessidade em encontrar casas para alugar nas favelas que possuem em meu bairro. O intuito dessa aplicação é atuar com o público classe C/D para venda e locação de imoveis, dar voz, acesso e valorizar o morador da comunidade.
@@ -85,3 +82,5 @@ Desenvolver o Front-End
 incluir autenticação e testes
 Adicionar uma parte que faça conexão do locador com o locatário
 
+
+- [LinkedIn](https://www.linkedin.com/in/camilarosadossantos/) 
