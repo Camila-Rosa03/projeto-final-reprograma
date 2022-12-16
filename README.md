@@ -1,6 +1,6 @@
 
 
-### Olá sou a Camila! mulher negra, mãe de Milena, nascida e crescida na periferia de São Paulo-SP, sou formada em Gestão financeira e no momento estou em transição de carreira, cursando desenvolvimento back-end na [{reprograma}](https://reprograma.com.br/) - Todas em Tech. Abaixo falarei mais sobre o projeto!
+##### Olá sou a Camila! mulher negra, mãe de Milena, nascida e crescida na periferia de São Paulo-SP, sou formada em Gestão financeira e no momento estou em transição de carreira, cursando desenvolvimento back-end na [{reprograma}](https://reprograma.com.br/) - Todas em Tech. Abaixo falarei mais sobre o projeto!
 
 
  # Sobre o projeto: Imobiliaria Comuna 🏘️
@@ -14,7 +14,6 @@ Inicialmente seria focado nas principais comunidades de São Paulo, e futurament
 
 Muito se fala no mercado imobiliário sobre a necessidade de inovação. A imobiliaria Comuna é a oportunidade para dar uma olhada em um público pouco atendido, mas muito promissor: tanto em termos de volume de pessoas quanto de renda circulante.
 
-```
  
 
 ```
@@ -33,8 +32,8 @@ GET/	Acesso a todas as casas
 POST/ Cadastro de uma nova casa
 PATCH/atualizar/:id Alteração de dados da casa
 DELETE/remover/:id	Exclusão da casa no banco de dados
-```
-```
+
+
 🛠️ Tecnologias e pacotes utilizados:
 
 JavaScript
