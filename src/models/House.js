@@ -1,6 +1,6 @@
 import {Schema, model } from 'mongoose';
 const HouseSchema = new Schema({
-    description: String,
+  description: String,
   price:Number,
   location: String,
   status: Boolean,

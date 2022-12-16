@@ -8,8 +8,9 @@ const routes = new Router();
 routes.post('/sessions', SessionController.store);
 routes.post('/houses', HouseController.store);
 routes.get('/houses', HouseController.index);
-routes.put('/houses/:house_id', HouseController.update);
-routes.delete('/houses', HouseController.destroy);
+routes.patch('/houses/:house_id', HouseController.update);
+routes.delete('/houses/:house_id', HouseController.destroy);
+
 
 
 export default routes;
