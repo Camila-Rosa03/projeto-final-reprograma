@@ -48,7 +48,6 @@ mongoose
 
 
 📁 Arquitetura
-  📁 PROJETO-LIVRE-ESPORTE-NA-REDE
   | 
   |-  📁 node_modules 
   |-  📁 src 
@@ -59,20 +58,16 @@ mongoose
   |    |- 📁 models 
   |         |- 📄 House.js 
   |         |- 📄 User.js 
-  |  
-  |    |- 📁 routes  
-  |         |- 📄 index.js   
-  |         |- 📄 projetosRoutes.js 
-  |         |- 📄 usuariosRoutes.js 
+  |   
   |
   |    |- 📄 app.js 
-  |    |- 📄 README.md  
   |    |- 📄 routes.js 
   |    |- 📄 server.js
   |
   |- 📄 .gitignore  
   |- 📄 package-lock.json  
   |- 📄 package.json 
+  |- 📄 README.md 
   |- 📄 vercel.json  
 
 ⚙️ Futuras implementações:
