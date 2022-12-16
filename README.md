@@ -81,5 +81,5 @@ Desenvolver o Front-End
 incluir autenticação e testes
 Adicionar uma parte que faça conexão do locador com o locatário
 
-
+```
 - [LinkedIn](https://www.linkedin.com/in/camilarosadossantos/) 
